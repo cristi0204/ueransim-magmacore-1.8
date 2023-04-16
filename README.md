@@ -1,5 +1,5 @@
 <p align="center">
-Fix UERNASIM UE - Failed to decode PDU error
+Fix for UERNASIM UE registration - Failed to decode PDU error
 </p>
 
 https://github.com/magma/magma/issues/12846#issue-1248507668
