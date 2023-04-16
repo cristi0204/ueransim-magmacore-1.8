@@ -1,4 +1,10 @@
 <p align="center">
+Fix UERNASIM UE - Failed to decode PDU error
+</p>
+
+https://github.com/magma/magma/issues/12846#issue-1248507668
+
+<p align="center">
   <a href="https://github.com/aligungr/UERANSIM"><img src="/.github/logo.png" width="75" title="UERANSIM"></a>
 </p>
 <p align="center">
