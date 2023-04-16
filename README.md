@@ -4,6 +4,16 @@ Fix for UERNASIM UE registration - Failed to decode PDU error
 
 https://github.com/magma/magma/issues/12846#issue-1248507668
 
+<code>
+sudo apt update && sudo apt upgrade -y
+sudo snap install cmake --classic
+sudo apt install make gcc g++ libsctp-dev lksctp-tools iproute2 -y
+
+git clone https://github.com/cristi0204/ueransim-magmacore-1.8.git
+cd ueransim-magmacore-1.8
+make
+</code>
+
 <p align="center">
   <a href="https://github.com/aligungr/UERANSIM"><img src="/.github/logo.png" width="75" title="UERANSIM"></a>
 </p>
