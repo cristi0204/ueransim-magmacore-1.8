@@ -1,5 +1,5 @@
 # IMSI number of the UE. IMSI = [MCC|MNC|MSISDN] (In total 15 digits)
-supi: 'imsi-286010000000001'
+supi: 'imsi-001010000000001'
 # Mobile Country Code value of HPLMN
 mcc: '001'
 # Mobile Network Code value of HPLMN (2 or 3 digits)
@@ -8,9 +8,9 @@ mnc: '01'
 routingIndicator: '0000'
 
 # Permanent subscription key
-key: '465B5CE8B199B49FAA5F0A2EE238A6BC'
+key: '00112233445566778899aabbccddeeff'
 # Operator code (OP or OPC) of the UE
-op: 'E8ED289DEBA952E4283B54E88E6183CA'
+op: '63bfa50ee6523365ff14c1f45f88737d'
 # This value specifies the OP type and it can be either 'OP' or 'OPC'
 opType: 'OP'
 # Authentication Management Field (AMF) value
@@ -22,7 +22,7 @@ imeiSv: '4370816125816151'
 
 # List of gNB IP addresses for Radio Link Simulation
 gnbSearchList:
-  - 127.0.0.1
+  - 10.0.2.200
 
 # UAC Access Identities Configuration
 uacAic:
